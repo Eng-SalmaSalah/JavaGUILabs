@@ -1,0 +1,4 @@
+javac WordCharacterCounter.java
+pause
+java WordCharacterCounter
+pause

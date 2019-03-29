@@ -1,0 +1,4 @@
+javac DomainNameConverter.java
+pause
+java DomainNameConverter
+pause
